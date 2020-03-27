@@ -1,6 +1,6 @@
 # _**Ping Pong**_
 
-#### _A Web Page About Me, February 2020_
+#### _A Web Page That Manipulates Numbers, February 2020_
 
 #### By _**Todd Walraven**_
 
